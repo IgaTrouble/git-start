@@ -1,1 +1,2 @@
 zmiana dokonana punkt 9
+ćwiczenia na git zdalny
